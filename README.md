@@ -1,1 +1,1 @@
-## Demo Link : [CarShowCase](https://carshowcase-lac.vercel.app/)
+## Demo Link : [CarShowCase](https://carshowcase-lac.vercel.app/?target=_blank)
